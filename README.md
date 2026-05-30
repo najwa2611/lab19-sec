@@ -160,8 +160,3 @@ adb logcat | grep -i "snake"
 ```
 
 Le flag apparaît dans les logs sous la forme attendue.
-
----
-nge (simulé)** : CTF Android / Reverse Engineering  
-**Licence du README** : Libre d’utilisation pour documentation technique ou éducative.
-```
